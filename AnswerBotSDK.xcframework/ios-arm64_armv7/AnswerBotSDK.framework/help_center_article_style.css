@@ -37,6 +37,10 @@ body {
     margin: 30px;
 }
 
+footer {
+    display: none;
+}
+
 a {
     color: #4ba7f2;
     text-decoration: none;
